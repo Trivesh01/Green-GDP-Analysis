@@ -3,3 +3,4 @@ In this project we have discussed how the green gdp of top 50 nations is affecte
 Addressed the problem of multicollinaerity that our data was suffering and also included its treatment.Finished by finally including the key findings and giving the conclusion.<br>
 <br>
 The softwares used are stata and python.
+The data sourcees used have been mentioned in project file.
